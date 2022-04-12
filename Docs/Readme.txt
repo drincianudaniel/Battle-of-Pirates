@@ -7,23 +7,42 @@
 
 Table Of Contents
 -----------------
+1. Details
+2. Controls
 
-1. Controls
+1. Details
 
+A simple 2d games in which 2 players have to compete with each other.
+Each player starts with 3 lifes and with 0 score. Every time a shark is killed the player who killed the shark obtains 1 point.
+If a player gets killed a barrel with a life spawns.
+Players can hit and damage each other.
 
-
-1. Controls
+2. Controls
 -----------
 
 Key Controls :
-
+    
+   
+    
     Escape         - Exit
+    
+    Player 1
+     
+    Arrow Up     - Move Ship Forward
+    Arrow Down   - Move Ship Backward
+    Arrow Left   - Strafe Ship Left
+    Arrow Right  - Strafe Ship Right
+    
+    ,            - Shoot left
+    .            - Shoot right
 
-    Cursor Up      - Move Plane Forward
-    Cursor Down    - Move Plane Backward
-    Cursor Left    - Strafe Plane Left
-    Cursor Right   - Strafe Plane Right
+
+    Player 2
     
-Mouse Controls :
+    W            - Move Ship Forward
+    S            - Move Ship Backward
+    A            - Strafe Ship Left
+    D            - Strafe Ship Right
     
-    Left Button    - Use Mouse Look
+    Q            - Shoot left
+    E            - Shoot right
