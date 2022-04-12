@@ -1,0 +1,7 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  CGameApp.cpp
+F:\facultadanisem2an2\graphical design\Battle of Pirates part 1\Source\CGameApp.cpp(717,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\facultadanisem2an2\graphical design\Battle of Pirates part 1\Source\CGameApp.cpp(718,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\facultadanisem2an2\graphical design\Battle of Pirates part 1\Source\CGameApp.cpp(736,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+F:\facultadanisem2an2\graphical design\Battle of Pirates part 1\Source\CGameApp.cpp(737,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Game.vcxproj -> F:\facultadanisem2an2\graphical design\Battle of Pirates part 1\d_Game.exe
